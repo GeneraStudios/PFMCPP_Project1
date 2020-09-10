@@ -76,13 +76,13 @@ cat.climb();
 //  action 3: run
 cat.run();
 //  4) 
-//  Noun: gun
-//  action 1: shoot
-gun.shoot();
-//  action 2: reload
-gun.reload();
-//  action 3: recoil
-gun.recoil();
+//  Noun: dumpster truck
+//  action 1: drive forward
+dumpsterTruck.driveForward();
+//  action 2: crush trash
+dumpsterTruck.crushTrash();
+//  action 3: open crusher
+dumpsterTruck.openCrusher();
 //  5) 
 //  Noun: human
 //  action 1: talk
