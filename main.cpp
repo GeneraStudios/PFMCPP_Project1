@@ -44,7 +44,7 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
 //  example)
 //  Noun:       arm                     // 1)
 //  action 1:   the arm extends         // 2)
-arm.extend();                           // 3)
+arm.extend();                          // 3)
 //  action 2:   the arm flexes          // 2)
 arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: dog
+//  action 1: bark
+dog.bark();
+//  action 2: run
+dog.run();
+//  action 3: sit
+dog.sit();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: leg
+//  action 1: bend
+leg.bend();
+//  action 2: kick
+leg.kick();
+//  action 3: stretch
+leg.stretch();
+//  3) 
+//  Noun: cat
+//  action 1: purr
+cat.purr();
+//  action 2: climb
+cat.climb();
+//  action 3: run
+cat.run();
+//  4) 
+//  Noun: dumpster truck
+//  action 1: drive forward
+dumpsterTruck.driveForward();
+//  action 2: crush trash
+dumpsterTruck.crushTrash();
+//  action 3: open crusher
+dumpsterTruck.openCrusher();
+//  5) 
+//  Noun: human
+//  action 1: talk
+human.talk();
+//  action 2: walk
+human.walk();
+//  action 3: punch
+human.punch();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: radar
+//  action 1: interrogate
+radar.interrogate();
+//  action 2: track
+radar.track();
+//  action 3: report
+radar.report();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: plane
+//  action 1: roll
+plane.roll();
+//  action 2: pitch
+plane.pitch();
+//  action 3: yaw
+plane.yaw();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: video game
+//  action 1: display graphics
+videoGame.displayGraphics();
+//  action 2: load game
+videoGame.loadGame();
+//  action 3: save game
+videoGame.saveGame();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: camera
+//  action 1: take picture
+camera.takePicture();
+//  action 2: record video
+camera.recordVideo();
+//  action 3: change mode
+camera.changeMode();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: ableton
+//  action 1: create track
+ableton.createTrack();
+//  action 2: process sample
+ableton.processSample();
+//  action 3: change buffer size
+ableton.changeBufferSize();
 
 
 #endif
